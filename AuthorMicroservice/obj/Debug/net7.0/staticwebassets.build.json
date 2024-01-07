@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "P5+mCygJgrQ69/kgnaRLStejHjQ8xfEdf2Km5iUZRAQ=",
+  "Source": "AuthorMicroservice",
+  "BasePath": "_content/AuthorMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
